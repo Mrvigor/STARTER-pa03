@@ -1,5 +1,7 @@
 // includes
 #include "NeuralNetwork.hpp"
+// Needed for std::find
+#include <algorithm>
 using namespace std;
 
 
